@@ -1,2 +1,2 @@
 # FYR
-My response to an interniew question in Python pseudocode
+My response to an interview question in Python pseudocode
