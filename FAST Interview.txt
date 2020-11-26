@@ -1,0 +1,35 @@
+1. Assume you have the following functions:
+   - IsPrime(number) returns True if the number is prime
+   - Print(number) will print a number
+   Write pseudo code to print the first 100 prime numbers.
+
+
+int numPrimes = 0;
+int i = 0;
+
+while (numPrimes < 100) {
+
+if (isPrime(i) == true) {
+print(i);
+numPrimes++;
+}
+i++
+}
+
+
+
+2. Write pseudo code for the function IsPrime(number)
+
+
+def IsPrime(i) {
+
+for (int j = 2; j < i; j++) {
+if (i % j == 0) {
+return False}
+}
+
+return True
+
+}
+
+
