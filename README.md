@@ -1,2 +1,2 @@
 # Interview Questions
-My responses to various interview questions in pseudocode
+My responses to various interview questions and practice problems
